@@ -1,0 +1,13 @@
+{
+  "name": "aternos-afk-bot-24-7",
+  "version": "1.0.0",
+  "description": "AFK bot for Aternos server",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.20.0"
+  }
+}
